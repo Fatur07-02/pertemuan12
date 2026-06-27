@@ -52,3 +52,32 @@ npx expo start
 Scan QR Code menggunakan aplikasi Expo Go pada Android atau iPhone.
 
 Screenshot
+
+Screenshot 1
+
+Daftar Catatan
+
+![create](assets/create.jpeg)
+
+Screenshot 2
+
+Fitur Toggle Status Selesai
+
+![update](assets/update.jpeg)
+
+Screenshot 3
+
+Bukti delete
+(Sebelum aplikasi ditutup)
+
+![delete](assets/delete.jpeg)
+
+Screenshot 4
+
+Bukti Persistensi
+(Setelah aplikasi dibuka kembali)
+
+![persistensi](assets/persistensi.jpeg)
+
+Expo Snack
+https://snack.expo.dev/@fatur07-02/note-keeper
